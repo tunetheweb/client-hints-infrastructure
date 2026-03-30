@@ -500,7 +500,7 @@ When asked to <dfn>find client hint value</dfn>, given |hint| as input, switch o
   <dt>`Viewport-Width`
   <dd>a suitable <a href="https://wicg.github.io/responsive-image-client-hints/#sec-ch-viewport-width">Viewport-Width value</a>
   <dt>`Viewport-Height`
-  <dd>a suitable <a href>Viewport-Height value</a>
+  <dd>a suitable <a href="https://wicg.github.io/responsive-image-client-hints/#sec-ch-viewport-height">Viewport-Height value</a>
   <dt>`Width`
   <dd>a suitable <a href="https://wicg.github.io/responsive-image-client-hints/#sec-ch-width">Width value</a>
   <dt>`Device-Memory`
